@@ -1,0 +1,102 @@
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\ApplicationInsights.config
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\csc.exe
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\vbc.exe
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\BookShowTest.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\BookShowTest.pdb
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Book_Show.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Owin.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\EntityFramework.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.Razor.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Book_Show.pdb
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\EntityFramework.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.Razor.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\obj\Debug\BookShowTest.csprojResolveAssemblyReference.cache
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\obj\Debug\BookShowTest.dll
+C:\Users\Ehab\Desktop\Book_Show\Books-Show-Project\BookShowTest\obj\Debug\BookShowTest.pdb
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\ApplicationInsights.config
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\csc.exe
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\vbc.exe
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\BookShowTest.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\BookShowTest.pdb
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Book_Show.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.Owin.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.Optimization.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.Mvc.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.Owin.Security.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Owin.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\EntityFramework.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.Razor.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.WebPages.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Book_Show.pdb
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.Owin.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.Optimization.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.Mvc.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.Owin.Security.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\EntityFramework.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.Razor.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.WebPages.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\obj\Debug\BookShowTest.csprojResolveAssemblyReference.cache
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\obj\Debug\BookShowTest.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\Book_Show\BookShowTest\obj\Debug\BookShowTest.pdb
